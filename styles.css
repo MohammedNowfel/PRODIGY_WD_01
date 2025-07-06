@@ -30,6 +30,7 @@ a {
   transition: 0.3s;
 }
 
+
 body {
   font-family: "Montserrat", sans-serif;
 }
@@ -89,8 +90,8 @@ nav {
   color: var(--primary-color);
 }
 
-.nav__links a:hover {
-  color: var(--white);
+.nav__links li a:hover {
+  color: var(--primary-color);
 }
 
 .nav__btns {
